@@ -11,7 +11,7 @@
     </parent>
 
     <artifactId>imh-lib-microservices</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.1-SNAPSHOT</version>
     <name>${project.groupId}:${project.artifactId}</name>
     <description>Ignacio Moreno Hojas Lib Microservices</description>
     <packaging>pom</packaging>
